@@ -1,0 +1,17 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Colleen Fallaw -- Developer -- mfall3 at illinois dot edu
+    Seth Robbins -- Developer -- srobbins at illinois dot edu
+
+# THANKS
+
+    Author: Peter Dietz - [Longsight, DSpace Service & Hosting Provider](http://longsight.com)
+    For command line SAFBuilder used as base (https://wiki.duraspace.org/display/DSPACE/Simple+Archive+Format+Packager)
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5
+    Apache Server Configs, jQuery, Modernizr, Normalize.css
